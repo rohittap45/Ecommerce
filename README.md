@@ -31,7 +31,7 @@ eCommerce-Application/
 
 - **Backend:** Java, Spring Boot, Maven, JPA/Hibernate
 - **Frontend:** React, JavaScript, Axios, React Router
-- **Database:** (Configure in Spring Boot, e.g., MySQL/PostgreSQL)
+- **Database:** MySQL
 - **Security:** JWT-based authentication
 
 ## Getting Started
